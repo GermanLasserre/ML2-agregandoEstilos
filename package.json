@@ -1,0 +1,23 @@
+{
+  "name": "organizandoelementos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanLasserre/agregandoestilos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GermanLasserre/agregandoestilos/issues"
+  },
+  "homepage": "https://github.com/GermanLasserre/agregandoestilos#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
